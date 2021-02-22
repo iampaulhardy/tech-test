@@ -1,0 +1,13 @@
+.search-results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.card-image {
+    margin: 10px 10px 10px 10px;
+    width: 200px;
+    height: 200px;
+}
